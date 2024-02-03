@@ -1,0 +1,61 @@
+h1 {
+    text-align: center;
+    color:brown;
+    font-size: 70px;
+}
+
+nav {
+    text-align: center;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    border:1px solid gold ;
+    background-color: red;
+    color:rgb(0, 0, 0);
+}
+
+footer p {
+    background-color: aqua;
+    color: blueviolet;
+    font-size: 20px;
+}
+
+main th {
+    border:1px solid hotpink;
+    background-color: indigo;
+    color:lawngreen;
+    font-size: 20px;
+}
+
+main td {   
+    border:1px solid firebrick;
+    background-color: white;
+    font-size: 20px;
+}
+
+main {
+    background-color: blue;
+}
+
+main p {
+    color: brown;
+    background-color: cyan;
+    font-size: 20px;
+}
+
+h2 {
+    color: darkorchid;
+    background-color: darkred;
+    font-size: 40px;
+}
+
+footer {
+    background-color: tomato;
+}
+
+body {
+    padding:20px;
+    background-color: darkgoldenrod;
+}
